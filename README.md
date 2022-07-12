@@ -15,7 +15,6 @@ Users should be able to:
 ![](./design/desktop-design.jpg)
 ### Live
 
--
 - Live Site URL: [Add live site URL here](https://dorinbraga.github.io/Product-preview-card-component---Frontend-Mentor/)
 
 ### Built with
